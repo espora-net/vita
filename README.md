@@ -1,6 +1,6 @@
-## Welcome to LinkedIn to Europass Exporter
+## Welcome to Vita
 
-This app will allow you to export your LinkedIn Profile Information into a Europass compatible format.
+This app will allow you to learn about best practices about your career and how to present your experience. A key feature is the capability to export your LinkedIn Profile Information into a Europass compatible format.
 
 ### Personal Data
 
