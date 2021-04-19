@@ -13,4 +13,4 @@ You could start after [LinkedIn login](https://www.linkedin.com/oauth/v2/authori
 
 ### Support or Contact
 
-Having trouble with the app? Check out the [documentation](wiki) or [create an issue](issues).
+Having trouble with the app? Check out the [documentation](/espora-net/vita/wiki) or [create an issue](/espora-net/vita/issues).
