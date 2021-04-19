@@ -27,7 +27,8 @@ jobs:
 
       # changes the base-tag in index.html from '/' to GitHub folder subdirectory
       - name: Change base-tag in index.html
-        run: sed -i 's/<base href="\/" \/>/<base href="\/vita\/" \/>/g' release/wwwroot/index.html
+      #  run: sed -i 's/<base href="\/" \/>/<base href="\/vita\/" \/>/g' release/wwwroot/index.html
+      # not required as full domain is in place. Hash calculation left however.
 
       - name: and calculate hash for integrity check, changing service-worker-assets.js hashes
         working-directory: release/wwwroot
