@@ -13,4 +13,4 @@ You could start after [LinkedIn login](https://www.linkedin.com/oauth/v2/authori
 
 ### Support or Contact
 
-Having trouble with the app? Check out the [documentation](https://github.com/carloshm/in2pass/wiki) or [create an issue](https://github.com/carloshm/in2pass/issues).
+Having trouble with the app? Check out the [documentation](wiki) or [create an issue](issues).
