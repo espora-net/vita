@@ -9,7 +9,7 @@ This app does not store any personal information and all transformation is done 
 App will ask permissions for your Profile based on the fields available on the [API](https://docs.microsoft.com/en-us/linkedin/shared/integrations/people/profile-api)
 ### Start
 
-You could start after [LinkedIn login](https://www.linkedin.com/oauth/v2/authorization?response_type=code&client_id=771511g48a5yt6&redirect_uri=https%3A%2F%2Fcreate.espora.net%2Fin2pass%2F&state=fooobar&scope=r_liteprofile%20r_emailaddress)
+You could start after [LinkedIn login](https://www.linkedin.com/)
 
 ### Support or Contact
 
